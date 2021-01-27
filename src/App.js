@@ -1,5 +1,4 @@
-import React, {useState,useEffect} from 'react'
-import { timer, Observable } from 'rxjs'
+import React from 'react'
 import Timer from "./Timer/Timer";
 
 import './App.css'
